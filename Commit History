@@ -1,0 +1,42 @@
+1.Commit 1a2b3c4
+Added numpy and matplotlib imports
+Defined physical constants (h, m, L)
+Created spatial grid
+
+2.Commit 2b3c4d5
+Added Wf(n, x) function for ψ_n(x)
+Added Energy(n) function using particle-in-box formula
+
+3.Commit 3c4d5e6
+Loop through n = 1 to 4
+Plot ψ(x) for each state
+Added labels with energy values
+
+4.Commit 4d5e6f7
+Added title, axis labels, legend
+Enabled grid for better readability
+Adjusted figure size
+
+5.Commit 5e6f7g8
+Plotted |ψ(x)|² for each state
+Created separate figure for density
+
+6.Commit 6f7g8h9
+Improved readability of x-axis
+Updated labels to "Distance (nm)"
+
+7.Commit 7g8h9i0
+Introduced ħ (h-bar)
+Updated energy equation to standard QM form
+
+8.Commit 8h9i0j1
+Visualized discrete energy levels using horizontal lines
+Improved conceptual understanding of quantization
+
+
+
+
+
+
+
+
